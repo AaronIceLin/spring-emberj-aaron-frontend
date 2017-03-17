@@ -40,16 +40,16 @@ You will need the following things properly installed on your computer.
 
 ### Screenshot
 List of users page
-![listUsers](https://github.com/AaronIceLin/spring-emberj-aaron-frontend/blob/master/spring-emberj-screenshot/Screen%20Shot%202017-03-17%20at%209.57.14%20AM.png?raw=true)
+![listUsers](https://github.com/AaronIceLin/spring-emberj-aaron-frontend/blob/master/spring-emberj-screenshot/list%20of%20users.png?raw=true)
 
 Show user details page
-![showUserDetails](https://github.com/AaronIceLin/spring-emberj-aaron-frontend/blob/master/spring-emberj-screenshot/Screen%20Shot%202017-03-17%20at%209.57.22%20AM.png?raw=true)
+![showUserDetails](https://github.com/AaronIceLin/spring-emberj-aaron-frontend/blob/master/spring-emberj-screenshot/User%20detail.png?raw=true)
 
 Create user page
-![createUser](https://github.com/AaronIceLin/spring-emberj-aaron-frontend/blob/master/spring-emberj-screenshot/Screen%20Shot%202017-03-17%20at%209.57.36%20AM.png?raw=true)
+![createUser](https://github.com/AaronIceLin/spring-emberj-aaron-frontend/blob/master/spring-emberj-screenshot/Create%20user.png?raw=true)
 
 Edit user page
-![editUser](https://github.com/AaronIceLin/spring-emberj-aaron-frontend/blob/master/spring-emberj-screenshot/Screen%20Shot%202017-03-17%20at%209.57.57%20AM.png?raw=true)
+![editUser](https://github.com/AaronIceLin/spring-emberj-aaron-frontend/blob/master/spring-emberj-screenshot/Edit%20user.png?raw=true)
 
 
 ## Further Reading / Useful Links
