@@ -1,11 +1,8 @@
 # spring-emberj-aaron-frontend
 
-This application mainly focus on how to connect Spring with Ember!
-
-Spring on backend and EmberJs on the frontend. You are able to show all user in the list, add, edit, and delete user.
+This application mainly focus on how to connect Spring with Ember. Spring on backend and EmberJs on the frontend. You are able to show all user in the list, add, edit, and delete user.
 
 Ember - Create UI for showing all user, add , edit, update, and delete user.
-
 Spring - Create backend RESTful Web Services for GET, POST, PATCH, DELETE operations.
 
 ## Prerequisites
@@ -42,9 +39,16 @@ You will need the following things properly installed on your computer.
 * `ember build --environment production` (production)
 
 ### Screenshot
+List of users page
 ![listUsers](https://github.com/AaronIceLin/spring-emberj-aaron-frontend/blob/master/spring-emberj-screenshot/Screen%20Shot%202017-03-17%20at%209.57.14%20AM.png?raw=true)
+
+Show user details page
 ![showUserDetails](https://github.com/AaronIceLin/spring-emberj-aaron-frontend/blob/master/spring-emberj-screenshot/Screen%20Shot%202017-03-17%20at%209.57.22%20AM.png?raw=true)
+
+Create user page
 ![createUser](https://github.com/AaronIceLin/spring-emberj-aaron-frontend/blob/master/spring-emberj-screenshot/Screen%20Shot%202017-03-17%20at%209.57.36%20AM.png?raw=true)
+
+Edit user page
 ![editUser](https://github.com/AaronIceLin/spring-emberj-aaron-frontend/blob/master/spring-emberj-screenshot/Screen%20Shot%202017-03-17%20at%209.57.57%20AM.png?raw=true)
 
 
