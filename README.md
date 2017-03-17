@@ -1,7 +1,12 @@
 # spring-emberj-aaron-frontend
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This application mainly focus on how to connect Spring with Ember!
+
+Spring on backend and EmberJs on the frontend. You are able to show all user in the list, add, edit, and delete user.
+
+Ember - Create UI for showing all user, add , edit, update, and delete user.
+
+Spring - Create backend RESTful Web Services for GET, POST, PATCH, DELETE operations.
 
 ## Prerequisites
 
@@ -37,10 +42,10 @@ You will need the following things properly installed on your computer.
 * `ember build --environment production` (production)
 
 ### Screenshot
-![listUsers](https://raw.githubusercontent.com/AaronIceLin/spring-emberj-aaron-frontend/spring-emberj-screenshot/Screen Shot 2017-03-17 at 9.57.14 AM.png)
-![showUserDetails](https://raw.githubusercontent.com/AaronIceLin/spring-emberj-aaron-frontend/spring-emberj-screenshot/Screen Shot 2017-03-17 at 9.57.22 AM.png)
-![createUser](https://raw.githubusercontent.com/AaronIceLin/spring-emberj-aaron-frontend/spring-emberj-screenshot/Screen Shot 2017-03-17 at 9.57.36 AM.png)
-![editUser](https://raw.githubusercontent.com/AaronIceLin/spring-emberj-aaron-frontend/spring-emberj-screenshot/Screen Shot 2017-03-17 at 9.57.57 AM.png)
+![listUsers](https://github.com/AaronIceLin/spring-emberj-aaron-frontend/blob/master/spring-emberj-screenshot/Screen%20Shot%202017-03-17%20at%209.57.14%20AM.png?raw=true)
+![showUserDetails](https://github.com/AaronIceLin/spring-emberj-aaron-frontend/blob/master/spring-emberj-screenshot/Screen%20Shot%202017-03-17%20at%209.57.22%20AM.png?raw=true)
+![createUser](https://github.com/AaronIceLin/spring-emberj-aaron-frontend/blob/master/spring-emberj-screenshot/Screen%20Shot%202017-03-17%20at%209.57.36%20AM.png?raw=true)
+![editUser](https://github.com/AaronIceLin/spring-emberj-aaron-frontend/blob/master/spring-emberj-screenshot/Screen%20Shot%202017-03-17%20at%209.57.57%20AM.png?raw=true)
 
 
 ## Further Reading / Useful Links
