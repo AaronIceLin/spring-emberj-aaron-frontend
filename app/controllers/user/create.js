@@ -28,6 +28,12 @@ export default Ember.Controller.extend({
     * Create user api call by using ajax
     **/
     saveByAjax: function (fullNameF, phoneF) {
+
+      if(fullNameF === undefined || phoneF===undefined || fullNameF ==='' || phoneF ===''){
+        alert("Please enter valid input!!!");
+        return;
+      }
+      
       this.get('ajax').request('/users/', {
         type: 'POST',
         contentType: "application/json",
