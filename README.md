@@ -11,9 +11,9 @@ You will need the following things properly installed on your computer.
 * [Bower](https://bower.io/)
 * [Ember CLI](https://ember-cli.com/)
 * [PhantomJS](http://phantomjs.org/)
-* [spring-emberj-aaron-frontend](https://github.com/AaronIceLin/spring-emberj-aaron-frontend)
+* [spring-ember-aaron-backend](https://github.com/AaronIceLin/spring-ember-aaron-backend)
 
-spring-emberj-aaron-frontend backend server is required to work with this project
+spring-ember-aaron-backend backend server is required to work with this project
 
 ## Installation
 
