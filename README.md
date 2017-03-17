@@ -39,19 +39,19 @@ You will need the following things properly installed on your computer.
 * `ember build --environment production` (production)
 
 ### Screenshot
-List of users page
+*List of users page
 
 ![listUsers](https://github.com/AaronIceLin/spring-emberj-aaron-frontend/blob/master/spring-emberj-screenshot/list%20of%20users.png?raw=true)
 
-Show user details page
+*Show user details page
 
 ![showUserDetails](https://github.com/AaronIceLin/spring-emberj-aaron-frontend/blob/master/spring-emberj-screenshot/User%20detail.png?raw=true)
 
-Create user page
+*Create user page
 
 ![createUser](https://github.com/AaronIceLin/spring-emberj-aaron-frontend/blob/master/spring-emberj-screenshot/Create%20user.png?raw=true)
 
-Edit user page
+*Edit user page
 
 ![editUser](https://github.com/AaronIceLin/spring-emberj-aaron-frontend/blob/master/spring-emberj-screenshot/Edit%20user.png?raw=true)
 
