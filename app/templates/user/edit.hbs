@@ -1,0 +1,27 @@
+<!--taskController is defined in edit controller-->
+<h3>Edit User ID {{modelFromController.id}}</h3>
+
+<br>
+
+<div class="edit-user-group-form">
+  <form>
+        <table>
+          <tr>
+            <td align="right">Full Name:</td>
+            <td align="left">{{input autoclose=true value=fullNameInput placeholder=modelFromController.fullName}}</td>
+          </tr>
+          <tr>
+            <td align="left">Phone:</td>
+            <td align="left">{{input value=phoneInput placeholder=modelFromController.phone}}</td>
+          </tr>
+        </table>
+
+  </form>
+
+  <br>
+    <div class = "save-edit-btn-task">
+      <button {{action 'saveEdit' model fullNameInput phoneInput}}class="save-user-btn" type="submit">Save</button>
+      <button {{action 'closeEdit' model.id }}class="close-edit-task-btn" type="submit">Back</button>
+    </div>
+
+</div>

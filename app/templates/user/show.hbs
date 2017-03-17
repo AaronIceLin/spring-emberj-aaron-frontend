@@ -1,0 +1,7 @@
+<h2>id: {{model.id}}</h2>
+<h3>fullName: {{model.fullName}}</h3>
+<h3>phone: {{model.phone}}</h3>
+
+<button {{action 'goBackToIndexAction' }}class="show-user-detail-back" type="submit">Back</button>
+<button {{action 'goToEditUserAction' model.id}}class="edit-user-btn" type="submit">Edit User</button>
+<button {{action 'deleteUserAction' model.id}}class="delete-user-btn" type="submit">Delete User</button>
