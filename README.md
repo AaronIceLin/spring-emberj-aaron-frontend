@@ -17,7 +17,7 @@ You will need the following things properly installed on your computer.
 
 ## Installation
 
-* `git clone https://github.com/AaronIceLin/spring-emberj-aaron-frontend.git` this repository
+* `git clone https://github.com/AaronIceLin/spring-emberj-aaron-frontend.git`
 * `cd spring-emberj-aaron-frontend`
 * `npm install`
 * `bower install`
@@ -40,15 +40,19 @@ You will need the following things properly installed on your computer.
 
 ### Screenshot
 List of users page
+
 ![listUsers](https://github.com/AaronIceLin/spring-emberj-aaron-frontend/blob/master/spring-emberj-screenshot/list%20of%20users.png?raw=true)
 
 Show user details page
+
 ![showUserDetails](https://github.com/AaronIceLin/spring-emberj-aaron-frontend/blob/master/spring-emberj-screenshot/User%20detail.png?raw=true)
 
 Create user page
+
 ![createUser](https://github.com/AaronIceLin/spring-emberj-aaron-frontend/blob/master/spring-emberj-screenshot/Create%20user.png?raw=true)
 
 Edit user page
+
 ![editUser](https://github.com/AaronIceLin/spring-emberj-aaron-frontend/blob/master/spring-emberj-screenshot/Edit%20user.png?raw=true)
 
 
