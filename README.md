@@ -1,6 +1,6 @@
 # spring-emberj-aaron-frontend
 
-This application mainly focus on how to connect Spring with Ember. You can show all users in the list, and you can also add, edit, and delete user. EmberJs framework is used to create UI, and Spring is used on the backend to create RESTful Web Services GET, POST, PATCH, and DELETE operations.
+This application mainly focus on how to connect Spring with Ember. EmberJs framework is used to create UI. You can show all users in the list, and you can also add, edit, and delete user. 
 
 ## Prerequisites
 
